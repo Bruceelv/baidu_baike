@@ -1,0 +1,15 @@
+c__builtin__
+set
+p0
+((lp1
+S'https://baike.baidu.com/item/%E5%BF%AB%E9%80%9F%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91'
+p2
+aS'https://baike.baidu.com/item/%E5%B8%83%E5%B0%94%E8%A1%A8%E8%BE%BE%E5%BC%8F'
+p3
+aS'https://baike.baidu.com/item/%E6%95%B0%E7%BB%84'
+p4
+aS'https://baike.baidu.com/item/%E5%A4%87%E4%BB%BD%E8%AE%A1%E5%88%92'
+p5
+atp6
+Rp7
+.
